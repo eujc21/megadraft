@@ -20,6 +20,7 @@ const Megadraft = {
   DraftJS: DraftJS,
   editorStateFromRaw: utils.editorStateFromRaw,
   editorStateToJSON: utils.editorStateToJSON,
+  editorStateFromRawString: utils.editorStateFromRawString,
   insertDataBlock: insertDataBlock,
   Media: Media,
   MegadraftEditor: MegadraftEditor,
